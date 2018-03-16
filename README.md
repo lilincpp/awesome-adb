@@ -12,6 +12,7 @@ Other languages: [:gb: English](./README.en.md)
 
 <!-- vim-markdown-toc GFM -->
 
+
 * [基本用法](#基本用法)
     * [命令语法](#命令语法)
     * [为命令指定目标设备](#为命令指定目标设备)
