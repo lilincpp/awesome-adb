@@ -140,6 +140,7 @@ adb [-d|-e|-s <serialNumber>] <command>
 | -e                  | 指定当前唯一运行的模拟器为命令目标                 |
 | `-s <serialNumber>` | 指定相应 serialNumber 号的设备/模拟器为命令目标    |
 
+
 在多个设备/模拟器连接的情况下较常用的是 `-s <serialNumber>` 参数，serialNumber 可以通过 `adb devices` 命令获取。如：
 
 ```sh
