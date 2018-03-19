@@ -393,6 +393,8 @@ adb disconnect <device-ip-address>
    一般能在「设置」-「关于手机」-「状态信息」-「IP地址」找到，也可以使用下文里 [查看设备信息 - IP 地址][1] 一节里的方法用 adb 命令来查看。
 
 5. 在电脑上通过 adb 和 IP 地址连接 Android 设备。
+ 
+   注：会阻塞线程
 
    ```sh
    adb connect <device-ip-address>
