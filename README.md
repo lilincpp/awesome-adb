@@ -6,7 +6,9 @@ ADB，即 [Android Debug Bridge](https://developer.android.com/studio/command-li
 持续更新中，欢迎提 PR 和 Issue 补充指正，觉得有用的可以将 [此 GitHub 仓库](https://github.com/mzlogin/awesome-adb) Star 收藏备用。
 
 **注：** 有部分命令的支持情况可能与 Android 系统版本及定制 ROM 的实现有关。
-
+  
+  
+  
 Other languages: [:gb: English](./README.en.md)
 
 # ![Table of Contents](./assets/toc.png)
